@@ -1,4 +1,4 @@
-# Tests/test_Login.py
+
 from selenium import webdriver
 from PageObjects.LoginPage import Login
 from PageObjects.DashboardPage import DashboardPage
